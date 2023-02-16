@@ -1,0 +1,111 @@
+.navbar{
+    display: flex;
+    /* border: 1px solid; */
+    align-items: center;
+}
+
+.link {
+    justify-content: space-between;
+    text-align: center;
+    width: 80%;
+    display: flex;
+    font-weight: bold;
+    font-size: 25px;
+}
+ .link a {
+    color: rgb(27, 9, 192);
+ }
+
+.link a {
+    text-decoration: none;
+}
+.border{
+    /* border: 1px solid; */
+    display: flex;
+    margin-left: 30%;
+    width: 100%;
+}
+
+#bor1 {
+    border: 1px solid;
+    padding: 13px;
+    margin: 15px; 
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    color: rgb(33, 4, 163);
+}
+
+.border a {
+    text-decoration: none;
+}
+
+
+
+#bor1 a{
+    color: rgb(102, 9, 66);
+}
+
+#bor2 {
+    border: 1px solid;
+    padding: 13px;
+    margin: 15px; 
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: rgb(20, 40, 216);
+    
+}
+
+#bor2 a{
+    color: white;
+}
+
+.kalimat1 {
+    color: rgb(126, 5, 173);
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.kalimat2 {
+    color: rgb(129, 4, 92);
+    font-size: 20px;
+}
+
+.gambar {
+    margin-top: 10px;
+    position: absolute;
+    top: 80px;
+    left: 1200px;
+}
+
+.gambar img {
+    width: 350px;
+}
+
+
+
+.logo {
+    align-items: center;
+    text-align: center;
+    width: 30%;
+    display: flex;
+    font-weight: bold;
+    font-size: 20px;
+   
+
+   
+}
+
+#logo1 {
+ color: chocolate;
+ 
+}
+
+
+#logo2 {
+    border: 2px solid;
+    background-color: coral;
+    margin-left: 20px;
+}
